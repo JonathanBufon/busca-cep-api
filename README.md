@@ -6,7 +6,14 @@ Um simples aplicativo web para consultar endereços a partir de um CEP (Código 
 
 ##  Screenshots 📸
 
-*(Opcional: Considere adicionar screenshots da aplicação em modo claro e escuro aqui)*
+   Modo Escuro:
+   
+![Modo Escuro](https://github.com/JonathanBufon/busca-cep-api/blob/main/cep-print/black.png)
+
+
+   Modo Claro:
+
+![Modo Claro](https://github.com/JonathanBufon/busca-cep-api/blob/main/cep-print/white.png)
 
 ---
 
